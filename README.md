@@ -3,7 +3,7 @@
 ArenaBet is a decentralized betting platform built with **Solidity**, leveraging **Riot Games APIs** to let users bet on eSports tournaments and matches and earn rewards. This project was developed as part of the **ETHGlobal Brussels 2024 Hackathon** and serves as a **proof of concept (MVP)** for a scalable Web3 betting system.  
 
 ![eSports Tournament](https://static.vecteezy.com/system/resources/thumbnails/038/957/874/small/ai-generated-futuristic-esport-background-for-gaming-live-streaming-esport-game-tournament-competition-neon-banner-photo.jpeg)  
-<sub>*(Image credit: Wikipedia - ESL Tournament)*</sub>  
+
 
 ⚠️ **Disclaimer:**  
 This is a hackathon project and is **not production-ready**. The code **has not been audited** and may contain security vulnerabilities. Do not use this platform with real funds.  
